@@ -1,0 +1,10 @@
+/* content of the test file */
+{"config": {
+  "key1": "value1",
+  "key2": "value2",
+  "objects": [
+      {"obj1": "name1", "key": "value"},
+      {"obj2": "name2", "key": "value"},
+      {"obj3": "name3", "key": "value"}
+    ]  
+}}
